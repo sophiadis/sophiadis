@@ -1,7 +1,7 @@
 # Seja muito bem-vindo(a) ao meu GitHub!
 
 - Desenvolvedora front-end (iniciante)
-- Conhecimento de desing no figma
+- Conhecimento de design no Figma
 - Cursei o primeiro ano de Informática no SENAC – RN
 
 ### Tecnologias
